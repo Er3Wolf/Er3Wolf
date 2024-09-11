@@ -1,4 +1,12 @@
 [
+    "./cursors/arrow.cur",
     "./index.json",
-    "./README.md"
+    "./music/Interlude (As Featured In _Bob Ross The Joy of Painting_).mp3",
+    "./photos/alley.jpg",
+    "./photos/ancient_brick_1.jpg",
+    "./photos/ancient_brick_2.jpg",
+    "./photos/ancient_brick_3.jpg",
+    "./photos/ancient_brick_4.jpg",
+    "./README.md",
+    "./yapping/2024-11-11.md"
 ]
